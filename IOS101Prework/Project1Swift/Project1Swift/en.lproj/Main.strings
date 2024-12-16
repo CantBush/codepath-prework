@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "UCSC"; ObjectID = "2J0-Qu-bNr"; */
+"2J0-Qu-bNr.text" = "UCSC";
+
+/* Class = "UIButton"; configuration.title = "RandomizeBG"; ObjectID = "6tM-1k-CAm"; */
+"6tM-1k-CAm.configuration.title" = "RandomizeBG";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6tM-1k-CAm"; */
+"6tM-1k-CAm.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Andrew Nguyen"; ObjectID = "80C-32-4aT"; */
+"80C-32-4aT.text" = "Andrew Nguyen";
+
+/* Class = "UILabel"; text = "Software Engineer"; ObjectID = "Ai3-M2-iM5"; */
+"Ai3-M2-iM5.text" = "Software Engineer";
